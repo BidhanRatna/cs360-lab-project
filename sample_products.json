@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Classic Wool Coat",
+        "description": "Elegant wool coat with a timeless design to keep you warm and stylish during the winter months.",
+        "price": 120.99,
+        "categories": ["Clothing", "Winter Wear"],
+        "images": ["http://example.com/img/wool-coat.jpg"],
+        "stock": 50,
+        "brand": "WinterElegance",
+        "ratings": {
+            "average": 4.8,
+            "numberOfReviews": 40
+        },
+        "createdAt": "2023-10-01T00:00:00Z",
+        "updatedAt": "2023-10-01T00:00:00Z"
+    },
+    {
+        "name": "Silk Evening Gown",
+        "description": "Stunning silk gown perfect for evening events and special occasions.",
+        "price": 199.95,
+        "categories": ["Clothing", "Formal Wear"],
+        "images": ["http://example.com/img/evening-gown.jpg"],
+        "stock": 30,
+        "brand": "GlamourNight",
+        "ratings": {
+            "average": 5.0,
+            "numberOfReviews": 25
+        },
+        "createdAt": "2023-10-02T00:00:00Z",
+        "updatedAt": "2023-10-02T00:00:00Z"
+    },
+    {
+        "name": "Hydrating Facial Serum",
+        "description": "Luxurious serum that hydrates, nourishes, and revitalizes your skin.",
+        "price": 35.99,
+        "categories": ["Beauty", "Skincare"],
+        "images": ["http://example.com/img/facial-serum.jpg"],
+        "stock": 75,
+        "brand": "SkinGlow",
+        "ratings": {
+            "average": 4.9,
+            "numberOfReviews": 50
+        },
+        "createdAt": "2023-10-03T00:00:00Z",
+        "updatedAt": "2023-10-03T00:00:00Z"
+    }
+]
